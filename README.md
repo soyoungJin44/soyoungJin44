@@ -1,6 +1,8 @@
 # 안녕하세요. 진소영 입니다😄  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-5A463B?style=for-the-badge&logo=java&logoColor=white)   
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
    ##  About Me   
