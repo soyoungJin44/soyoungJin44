@@ -45,7 +45,7 @@
    - **주요 기능**: 상품 검색, 장바구니, 결제 연동, 관리자 페이지
    - **GitHub**: [레포지토리 바로가기](https://github.com/username/shoppingmall)
 
-   ...
+    ...
 
    3. **DDagenie**
    - **기간**: 
