@@ -1,5 +1,7 @@
-## 안녕하세요. 진소영 입니다 👋
+## 안녕하세요. 진소영 입니다 👋   
 
+   ### About Me   
+   
 <!--
 **soyoungJin44/soyoungJin44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
