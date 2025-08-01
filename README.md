@@ -36,10 +36,10 @@
     - **설명**: <!-- 사용자 친화적인 UI와 안정적인 백엔드 API를 제공하는 풀스택 쇼핑몰 서비스입니다.  -->   
     - **주요 기능**:   
       - 업체   
-      홈페이지 제작
+      홈페이지 제작   
       홈페이지 관리   
       - 사용자   
-      - 메인페이지   
+      메인페이지   
     - **GitHub**:    
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)      
