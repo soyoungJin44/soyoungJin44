@@ -51,7 +51,7 @@
     - **기술 스택**:    
     - **설명**: <!-- 사용자 친화적인 UI와 안정적인 백엔드 API를 제공하는 풀스택 쇼핑몰 서비스입니다.  -->   
     - **주요 기능**: 상품 검색, 장바구니, 결제 연동, 관리자 페이지   
-    - **GitHub**:
+    - **GitHub**:   
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)      
 
