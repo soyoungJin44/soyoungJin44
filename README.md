@@ -39,8 +39,8 @@
       홈페이지 제작   
       홈페이지 관리   
       - 사용자   
-      메인페이지      
-    - **GitHub**:    
+      메인페이지   
+   - **GitHub**:    
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)      
 
@@ -50,7 +50,7 @@
     - **기술 스택**:    
     - **설명**: 취업지원 웹사이트   
     - **주요 기능**: user마이페이지, 지원공고관리   
-    - **GitHub**:   
+   - **GitHub**:   
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)       
 
