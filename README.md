@@ -1,6 +1,12 @@
 ## 안녕하세요. 진소영 입니다 👋   
 
    ### About Me   
+   **백엔드(Java, SpringBoot), 프론트엔드(React)** 를 활용한 개발에 관심이 많은 진소영입니다!   
+   현재 실전 중심의 다양한 프로젝트를 진행하며 개발 역량을 쌓고있습니다.   
+
+      특히 RESTful API 설계, 데이터베이스 모델링, React 상태 관리에 관심이 있으며,  
+      클린 아키텍처와 코드 품질 향상을 위한 리팩토링에도 꾸준히 신경 쓰고 있습니다.
+   
    
 <!--
 **soyoungJin44/soyoungJin44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
