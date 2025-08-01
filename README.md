@@ -39,7 +39,7 @@
       홈페이지 제작   
       홈페이지 관리   
       - 사용자   
-      메인페이지   
+      메인페이지      
     - **GitHub**:    
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)      
