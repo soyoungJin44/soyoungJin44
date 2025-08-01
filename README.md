@@ -1,4 +1,7 @@
 # 안녕하세요. 진소영 입니다😄  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
    ##  About Me   
    **백엔드(Java, SpringBoot), 프론트엔드(React)** 를 활용한 개발에 관심이 많은 **진소영**입니다!   
