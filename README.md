@@ -31,9 +31,9 @@
 
    ##  📋Projects
    1. ***YUMMY***   
-    - **기간**:    
-    - **기술 스택**:    
-    - **설명**: <!-- 사용자 친화적인 UI와 안정적인 백엔드 API를 제공하는 풀스택 쇼핑몰 서비스입니다.  -->   
+    - **기간**: 2024.11 ~ 2024.12   
+    - **기술 스택**: React, Spring Boot, MySQL 기반 웹 서비스로, Kakao Maps API 및 AWS(EC2, RDS, S3)를 활용하고 Notion, GitHub, Figma로 협업했습니다.   
+    - **설명**: 입찰(역경매) 시스템을 도입한 맞춤형 케이크 판매 웹사이트   
     - **주요 기능**:   
       - 업체   
       홈페이지 제작   
@@ -46,10 +46,10 @@
 
 
    3. ***IDEA***   
-    - **기간**:    
-    - **기술 스택**:    
+    - **기간**: 2025.03 ~ 2025.05   
+    - **기술 스택**: React, Spring Boot, MySQL 기반 웹 서비스로, JWT 인증과 AWS(EC2, RDS, S3)를 활용하고 Notion, GitHub, Figma로 협업했습니다.   
     - **설명**: 취업지원 웹사이트   
-    - **주요 기능**: user마이페이지, 지원공고관리   
+    - **주요 기능**: user마이페이지, user지원공고관리, 카테고리별 공고글노출   
    - **GitHub**:   
       [Back-End 레포지토리 바로가기](https://github.com/username/shoppingmall)   
       [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)       
