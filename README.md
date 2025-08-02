@@ -27,7 +27,7 @@
    - **Database**: MySQL  
    - **DevOps & Cloud**: AWS (EC2, RDS, Route 53, S3), Docker  
    - **CI/CD**: GitHub Actions  
-   - **Tools**: Git, Notion, Figma
+   - **Collaboration Tools**: Git, Notion, Figma
 
    ##  📋Projects
    1. ***YUMMY***   
