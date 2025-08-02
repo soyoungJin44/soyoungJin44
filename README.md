@@ -52,7 +52,7 @@
     - **주요 기능**: user마이페이지, user지원공고관리, 카테고리별 공고글노출   
    - **GitHub**:   
       [Back-End 레포지토리 바로가기](https://github.com/soyoungJin44/IDEA-backend)   
-      [Front-End 레포지토리 바로가기](https://github.com/username/shoppingmall)       
+      [Front-End 레포지토리 바로가기](https://github.com/soyoungJin44/IDEA-frontend)       
 
    ...
 
